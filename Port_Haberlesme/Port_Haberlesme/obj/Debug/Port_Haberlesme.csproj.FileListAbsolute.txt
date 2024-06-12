@@ -1,0 +1,9 @@
+c:\users\irema\onedrive\belgeler\visual studio 2012\Projects\Port_Haberlesme\Port_Haberlesme\bin\Debug\Port_Haberlesme.exe.config
+c:\users\irema\onedrive\belgeler\visual studio 2012\Projects\Port_Haberlesme\Port_Haberlesme\bin\Debug\Port_Haberlesme.exe
+c:\users\irema\onedrive\belgeler\visual studio 2012\Projects\Port_Haberlesme\Port_Haberlesme\bin\Debug\Port_Haberlesme.pdb
+c:\users\irema\onedrive\belgeler\visual studio 2012\Projects\Port_Haberlesme\Port_Haberlesme\obj\Debug\Port_Haberlesme.csprojResolveAssemblyReference.cache
+c:\users\irema\onedrive\belgeler\visual studio 2012\Projects\Port_Haberlesme\Port_Haberlesme\obj\Debug\Port_Haberlesme.Form1.resources
+c:\users\irema\onedrive\belgeler\visual studio 2012\Projects\Port_Haberlesme\Port_Haberlesme\obj\Debug\Port_Haberlesme.Properties.Resources.resources
+c:\users\irema\onedrive\belgeler\visual studio 2012\Projects\Port_Haberlesme\Port_Haberlesme\obj\Debug\Port_Haberlesme.csproj.GenerateResource.Cache
+c:\users\irema\onedrive\belgeler\visual studio 2012\Projects\Port_Haberlesme\Port_Haberlesme\obj\Debug\Port_Haberlesme.exe
+c:\users\irema\onedrive\belgeler\visual studio 2012\Projects\Port_Haberlesme\Port_Haberlesme\obj\Debug\Port_Haberlesme.pdb
